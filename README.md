@@ -1,2 +1,2 @@
 # august2
-august2repo
+This is the 2nd practical
